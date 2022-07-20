@@ -1,8 +1,8 @@
 {
   "posts": [
     { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+   { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
+   { "descripcion": "assdasd", "imagen": "asda", "precio": 32 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
