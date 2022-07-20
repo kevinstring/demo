@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
