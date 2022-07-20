@@ -2,6 +2,10 @@
   "posts": [
     { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
    { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
+   { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
+     { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
+   { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
+     { "descripcion": "assdasd", "imagen": "asda", "precio": 32 },
    { "descripcion": "assdasd", "imagen": "asda", "precio": 32 }
   ]
 }
