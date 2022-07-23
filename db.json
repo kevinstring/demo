@@ -8,6 +8,7 @@
     ],
     
     "arepas":[
-    {"nada":"nada"}
+    {"nada":"nada", "otro":"otro"}
+        
 ]
   }
