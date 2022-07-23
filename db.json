@@ -1,10 +1,10 @@
 {
-  "posts": [
-    {"nombre":"Reina Pepiada", "descripcion": "rellena con pollo, aguacate, queso y aderezo especial", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/02/07122110/RFB-31-5-reinapepea.jpg", "precio": 20 },
-   {"nombre":"La Peluda", "descripcion": "Rellena con carne mechada y queso", "imagen": "https://i.pinimg.com/originals/d2/15/d4/d215d48fd7aba829e130392becdd643a.jpg", "precio": 20 },
-   { "nombre":"Pabellon","descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20 },
-     {  "nombre":"Catira","descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20 },
-   { "nombre":"Rumbera","descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20 },
-    
-  ]
-}
+    "posts": [
+      {"nombre":"Reina Pepiada", "descripcion": "rellena con pollo, aguacate, queso y aderezo especial", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/02/07122110/RFB-31-5-reinapepea.jpg", "precio": 20 },
+     {"nombre":"La Peluda", "descripcion": "Rellena con carne mechada y queso", "imagen": "https://i.pinimg.com/originals/d2/15/d4/d215d48fd7aba829e130392becdd643a.jpg", "precio": 20 },
+     { "nombre":"Pabellon","descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20 },
+       {  "nombre":"Catira","descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20 },
+     { "nombre":"Rumbera","descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20 }
+      
+    ]
+  }
