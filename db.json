@@ -6,8 +6,8 @@
      {"id":3 ,"descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20, "nombre": "Pabellon" },
        {"id":4, "descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20, "nombre": "Rumbera" },
      {"id":5 ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" }
-     ]},
-{
+     ],
+
     "desayunos":[
             {"id":1 , "descripcion": "desayuno al estilo chapin, con huevitos,frijol,platano y panito", "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/0c/66/bf/06/desayuno-chapin.jpg", "precio": 35,"nombre": "Chapin" },
      {"id":2 , "descripcion": "Delicioso desayuno con huevitos al gusto sobre un filete de carne a la plancha, acompanado de frijol, platano y panito", "imagen": "https://scontent.fgua1-3.fna.fbcdn.net/v/t1.6435-9/38768469_2016668488351512_1851165801185280000_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=FhPPH7BVoD0AX944GhM&_nc_ht=scontent.fgua1-3.fna&oh=00_AfAwxQyri95r2nsyHfODRtN02T1NS_vHFa0P0rM4wmmJSQ&oe=63EFCD3A", "precio": 35,"nombre": "Pinulteco"  },
