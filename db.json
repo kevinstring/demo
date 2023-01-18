@@ -4,10 +4,19 @@
       {"id":1 , "descripcion": "rellena con pollo, aguacate, queso y aderezo especial", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/02/07122110/RFB-31-5-reinapepea.jpg", "precio": 20,"nombre": "reina pepiada" },
      {"id":2 , "descripcion": "Rellena con carne mechada y queso", "imagen": "https://i.pinimg.com/originals/d2/15/d4/d215d48fd7aba829e130392becdd643a.jpg", "precio": 20,"nombre": "La Peluda"  },
      {"id":3 ,"descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20, "nombre": "Pabellon" },
-       { "descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20, "nombre": "Rumbera" },
-     {"id":4 ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" }
+       {"id":4 "descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20, "nombre": "Rumbera" },
+     {"id":5 ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" }
          
+    ],
+    "desayunos":[
+            {"id":1 , "descripcion": "desayuno al estilo chapin, con huevitos,frijol,platano y panito", "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/0c/66/bf/06/desayuno-chapin.jpg", "precio": 35,"nombre": "Chapin" },
+     {"id":2 , "descripcion": "Delicioso desayuno con huevitos al gusto sobre un filete de carne a la plancha, acompanado de frijol, platano y panito", "imagen": "https://scontent.fgua1-3.fna.fbcdn.net/v/t1.6435-9/38768469_2016668488351512_1851165801185280000_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=FhPPH7BVoD0AX944GhM&_nc_ht=scontent.fgua1-3.fna&oh=00_AfAwxQyri95r2nsyHfODRtN02T1NS_vHFa0P0rM4wmmJSQ&oe=63EFCD3A", "precio": 35,"nombre": "Pinulteco"  },
+     {"id":3 ,"descripcion": "Un desayuno para los hambrientos, incluye huevitos al gusto, frijol, una arepa frita y una empanada de pollo", "imagen": "https://i.pinimg.com/564x/5c/b6/02/5cb6028a1b1dd27f955f574bf55ea906.jpg", "precio": 40, "nombre": "Pal Jefe" },
+       {"id":4 "descripcion": "Delicioso Muffin de huevo con jamon y papas fritas", "imagen": "https://biscuitville.com/wp-content/uploads/2019/10/Sausage-Egg-Biscuit.jpg", "precio": 30, "nombre": "Muffin" },
+     {"id":5 ,"descripcion": "plato al estilo chilaquiles, una base de nachos cubierta por nuestra salsa especial, carne mechada y huevitos al gusto", "imagen": "https://sazondemama.com/wp-content/uploads/2022/09/Como-hacer-la-receta-de-chilaquiles-rojos-y-cuantas-calorias-tiene-1200x900.jpg", "precio": 35, "nombre": "Don nacho" }
+     
     ]
+               
   }
   
     
