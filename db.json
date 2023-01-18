@@ -5,7 +5,10 @@
      {"id":2,"clasi":"arepas" , "descripcion": "Rellena con carne mechada y queso", "imagen": "https://i.pinimg.com/originals/d2/15/d4/d215d48fd7aba829e130392becdd643a.jpg", "precio": 20,"nombre": "La Peluda"  },
      {"id":3,"clasi":"arepas" ,"descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20, "nombre": "Pabellon" },
        {"id":4,"clasi":"arepas", "descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20, "nombre": "Rumbera" },
-     {"id":5,"clasi":"arepas" ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" }
+     {"id":5,"clasi":"arepas" ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" },
+         {"id":6,"clasi":"arepas" ,"descripcion": "Rellena con carne mechada, caraotas, tajadas y queso", "imagen": "https://arepas.top/wp-content/uploads/2018/11/arepa-venezolana-pabell%C3%B3n.jpg", "precio": 20, "nombre": "Pabellon" },
+       {"id":7,"clasi":"arepas", "descripcion": "Rellena con pollo mechado y queso", "imagen": "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/06/21101529/RFB-1406-1-arepacatira.jpg", "precio": 20, "nombre": "Rumbera" },
+     {"id":8,"clasi":"arepas" ,"descripcion": "Rellena con cerdo y mozarela", "imagen": "https://www.cocinayvino.com/wp-content/uploads/2016/05/arepa-rumbera.jpg", "precio": 20, "nombre": "La catira" }
      ],
 
     "desayunos":[
